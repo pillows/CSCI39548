@@ -1,7 +1,8 @@
-# CSCI39548
-Practical Web Dev Fall 2022
 
-## Class 1 (8/31)
+# CSCI39548
+Practical Web Dev Spring 2023
+
+## Class 1 (01/30)
 - Course logistics, review syllabus
 - [Set up git](https://docs.github.com/en/github/getting-started-with-github/set-up-git)
 - [Connecting to GitHub via SSH](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/about-ssh)
@@ -24,11 +25,11 @@ Practical Web Dev Fall 2022
 - [HTML](https://www.w3schools.com/html/default.asp)
 - [CSS](https://www.w3schools.com/css/default.asp)
 
-## Class 2 (9/7)
+## Class 2 (02/06)
 - Review git, GitHub, feature branch workflow, HTML, CSS
 - [Eloquent JavaScript Chapter 3: Functions](http://eloquentjavascript.net/03_functions.html)
 
-## Class 3 (9/14)
+## Class 3 (02/13)
 - [Installing Node.js](https://nodejs.org/en/download/package-manager/)
 - [Review of class 1 and 2 material](https://docs.google.com/document/d/1IiKHX0lIk7n_AlNIttbD1d1ICukPVodbYmWj0IaCSPE/edit?usp=sharing)
 
@@ -40,7 +41,9 @@ Practical Web Dev Fall 2022
 **Supplemental materials**
 - [Video: JS Crash Course](https://www.youtube.com/watch?v=hdI2bqOjy3c&ab_channel=TraversyMedia)
 
-## Class 4 (9/21)
+## No Class (02/20)
+
+## Class 4 (02/27)
 - Quiz on material from classes 1 to 3
 
 **DOM:**
@@ -56,14 +59,14 @@ Practical Web Dev Fall 2022
 - [Eloquent JavaScript Chapter 15: Handling Events](http://eloquentjavascript.net/15_event.html)
 - [CSS Selector Syntax](https://www.w3schools.com/cssref/css_selectors.asp)
 
-## Class 5 (9/28)
+## Class 5 (03/06)
 - [Gridmaker](https://gist.github.com/mtlynch3/5f1f86199a3ddb12d137f9d2fe8d1900)
 - [Eloquent JavaScript Chapter 5: Higher Order Functions](http://eloquentjavascript.net/05_higher_order.html)
 - [Create React App](https://reactjs.org/docs/create-a-new-react-app.html#create-react-app)
 
 **No class 10/5**
 
-## Class 6 (10/12)
+## Class 6 (03/13)
 - Quiz on material from classes 4 and 5 (JavaScript, DOM)
 
 **Into to React:**
@@ -76,7 +79,7 @@ Practical Web Dev Fall 2022
 - [React JS Crash Course 2021](https://www.youtube.com/watch?v=w7ejDZ8SWv8&ab_channel=TraversyMedia) NOTE: this video uses React hooks. We will not cover hooks in class but you are allowed to use them in your assignments. More on hooks [here](https://reactjs.org/docs/hooks-intro.html).
 - [React styling conventions](https://github.com/airbnb/javascript/tree/master/react)
 
-## Class 7 (10/19)
+## Class 7 (03/20)
 - Continue React Docs 
 - Assignment 2: Memory (Card Game) [example](https://www.helpfulgames.com/subjects/brain-training/memory.html)
 - Guide to [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), [Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
@@ -85,7 +88,7 @@ Practical Web Dev Fall 2022
 
 ### [Assignment 2](https://docs.google.com/document/d/1Y7_bxGlXh2bFuS2PY4bw4MUGE0FIQZXxBjOUdVfbJi4/edit?usp=sharing)
 
-## Class 8 (10/26)
+## Class 8 (03/27)
 - [React examples](https://github.com/mtlynch3/class8)
 - Async JS, working with API data
 - Work on Assignment 2
@@ -104,13 +107,13 @@ Practical Web Dev Fall 2022
 - [Axios tutorial](http://zetcode.com/javascript/axios/)
 - [Video: Axios Crash Course](https://www.youtube.com/watch?v=6LyagkoRWYA)
 
-## Class 9 (11/2)
+## Class 9 (04/03)
 - Continue working with API data in React components
 - Introduce Redux for handling async actions and managing app state
 - [In-class examples](https://github.com/mtlynch3/react-examples)
 - Redux slides [1](https://drive.google.com/file/d/1T4kvykmcM2MvKvnExjopJv2i4cOjZw1O/view) [2](https://drive.google.com/file/d/1CWDPOigoVDwZDc4iLEpJMJ7MN42cT3qI/view)
 
-## Class 10 (11/9)
+## Class 10 (04/10)
 - [What is a CRUD app?](https://www.codecademy.com/article/what-is-crud)
 - CRUD example: [TubeText](https://github.com/mtlynch3/tube-text)
 - React Router: [repo](https://github.com/mtlynch3/router-example) for in-class exercise
@@ -122,7 +125,7 @@ Practical Web Dev Fall 2022
 - [Redux course](https://egghead.io/courses/fundamentals-of-redux-course-from-dan-abramov-bd5cc867)
 - [Article on thunks](https://medium.com/fullstack-academy/thunks-in-redux-the-basics-85e538a3fe60)
 
-## Class 11 (11/16)
+## Class 11 (04/17)
 - Building out our own API using Express
 - Performing database CRUD operations using Sequelize/Postgres
 - REST API [slides](https://drive.google.com/file/d/1ijx6JmRUiiDI9AlPyZewh18GPgim4GJ1/view)
@@ -139,21 +142,19 @@ Practical Web Dev Fall 2022
 ### [Final project](https://docs.google.com/document/d/1ioCrS7uzKSkH8d-L04xMeHsq5GbkiAfwPNyLUoqrb04/edit?usp=sharing)
 - Due 12/21 at 11:59 PM
 
-## Class 12 (11/23)
+## Class 12 (04/24)
 - Quiz 5
 - Continue lecture on backend, go through final project implementation details
 
 ### [Assignment 3](https://docs.google.com/document/d/1KO41PPwGuOw3tdXCtCvIoAzqquxWqqPuGfHtEdmOSv4/edit?usp=sharing)
 - Due 12/8 at 11:59 PM
 
-## Class 13 (11/30)
+## Class 13 (05/01)
 - Work on assignments in class
 - Final lecture on any topics that need to be clarified
 - Example repos: [frontend](https://github.com/mtlynch3/final-frontend) [backend](https://github.com/mtlynch3/final-backend)
 
-## Class 14 (12/7)
+## Class 14 (05/08)
 - Last day of class
 - Quiz 6
 - Work on assignments in class
-
-

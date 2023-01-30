@@ -111,6 +111,7 @@ HTML and CSS
 ##  Class 7 (3/20)
 
 - Continue React Docs, React-Router
+###  [Assignment 2 (TBD)]()
 
 ##  Class 8 (3/27)
 

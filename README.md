@@ -148,7 +148,7 @@ HTML and CSS
 
 - Redux slides [1](https://drive.google.com/file/d/1T4kvykmcM2MvKvnExjopJv2i4cOjZw1O/view) [2](https://drive.google.com/file/d/1CWDPOigoVDwZDc4iLEpJMJ7MN42cT3qI/view)
 
-##  Class 10 (4/01)
+##  Class 10 (4/10)
 
 - Midterm and intro final project
 

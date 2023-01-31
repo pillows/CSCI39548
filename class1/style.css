@@ -1,0 +1,16 @@
+div {
+  background-color: aqua;
+}
+
+span {
+  background-color: red;
+}
+
+#divblock {
+  background-color: blue;
+}
+
+.cornflowerblueblock {
+  background-color: cornflowerblue;
+  display: block;
+}

@@ -45,7 +45,7 @@ HTML and CSS
 
 - [Sample repo for a basic website](https://github.com/mtlynch3/a_website)
 
-###  [Assignment 1](https://docs.google.com/document/d/1Pf86Btnzj55v0ym_ugkQYRuqnk77RcjMK0vOW5STZaY/edit?usp=sharing)
+###  [Assignment 1](https://docs.google.com/document/d/1nLtficZ5apb5vefxccO2QRNuw7-3exCoFrcGaj4ukX0/edit?usp=sharing)
 
 ## No Class (2/13)
 ## No Class (2/20)

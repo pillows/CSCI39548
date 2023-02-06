@@ -15,8 +15,6 @@ Practical Web Dev Spring 2023
 
 - [Git notes](https://docs.google.com/document/d/1IiKHX0lIk7n_AlNIttbD1d1ICukPVodbYmWj0IaCSPE/edit?usp=sharing)
 
-- [Sample repo for a basic website](https://github.com/mtlynch3/a_website)
-
 **Supplemental materials**
 
 Git and GitHub
@@ -44,6 +42,8 @@ HTML and CSS
 ##  Class 2 (2/6)
 
 - Review git, GitHub, feature branch workflow, HTML, CSS
+
+- [Sample repo for a basic website](https://github.com/mtlynch3/a_website)
 
 ###  [Assignment 1](https://docs.google.com/document/d/1nLtficZ5apb5vefxccO2QRNuw7-3exCoFrcGaj4ukX0/edit?usp=sharing)
 

@@ -15,6 +15,8 @@ Practical Web Dev Spring 2023
 
 - [Git notes](https://docs.google.com/document/d/1IiKHX0lIk7n_AlNIttbD1d1ICukPVodbYmWj0IaCSPE/edit?usp=sharing)
 
+- [Sample repo for a basic website](https://github.com/mtlynch3/a_website)
+
 **Supplemental materials**
 
 Git and GitHub
@@ -43,11 +45,11 @@ HTML and CSS
 
 - Review git, GitHub, feature branch workflow, HTML, CSS
 
-- [Sample repo for a basic website](https://github.com/mtlynch3/a_website)
+###  [Assignment 1](https://docs.google.com/document/d/1Pf86Btnzj55v0ym_ugkQYRuqnk77RcjMK0vOW5STZaY/edit?usp=sharing)
 
-###  [Assignment 1](https://docs.google.com/document/d/1nLtficZ5apb5vefxccO2QRNuw7-3exCoFrcGaj4ukX0/edit?usp=sharing)
-
-##  Class 3 (2/13)
+## No Class (2/13)
+## No Class (2/20)
+##  Class 3 (2/21)
 
 - [Installing Node.js](https://nodejs.org/en/download/package-manager/)
 
@@ -58,7 +60,6 @@ HTML and CSS
 **Supplemental materials**
 
 - [Video: JS Crash Course](https://www.youtube.com/watch?v=hdI2bqOjy3c&ab_channel=TraversyMedia)
-## No Class (2/20)
 
 ##  Class 4 (2/27)
 
@@ -111,7 +112,6 @@ HTML and CSS
 ##  Class 7 (3/20)
 
 - Continue React Docs, React-Router
-###  [Assignment 2 (TBD)]()
 
 ##  Class 8 (3/27)
 
@@ -149,7 +149,7 @@ HTML and CSS
 
 - Redux slides [1](https://drive.google.com/file/d/1T4kvykmcM2MvKvnExjopJv2i4cOjZw1O/view) [2](https://drive.google.com/file/d/1CWDPOigoVDwZDc4iLEpJMJ7MN42cT3qI/view)
 
-##  Class 10 (4/10)
+##  Class 10 (4/01)
 
 - Midterm and intro final project
 

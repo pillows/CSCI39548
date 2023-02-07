@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+}
+
+.el1 {
+  /* margin-bottom: 10px; */
+  /* margin-left: 30px; */
+  /* margin: 15px 0px 10px 30px; */
+  display: inline;
+  border-style: dotted;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+.el2 {
+  margin-top: 10px;
+  display: inline;
+  border-style: dotted;
+}

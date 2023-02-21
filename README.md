@@ -53,6 +53,8 @@ HTML and CSS
 
 - [Installing Node.js](https://nodejs.org/en/download/package-manager/)
 
+- [Installing NVM](https://github.com/nvm-sh/nvm#important-notes)
+
 - [Eloquent JavaScript Chapter 3: Functions](http://eloquentjavascript.net/03_functions.html)
 
 - [Eloquent JavaScript Chapter 4: Objects and Arrays](http://eloquentjavascript.net/04_data.html)

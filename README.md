@@ -121,7 +121,7 @@ HTML and CSS
 
 - Async JS, working with API data
 
-- Assignment 2 due 03/28
+- Assignment 2 due today
 
 *Recommended materials:*
 

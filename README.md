@@ -95,6 +95,8 @@ HTML and CSS
 
 - [Create React App](https://reactjs.org/docs/create-a-new-react-app.html#create-react-app)
 
+- [Assignment 2](https://docs.google.com/document/d/1_XkhDbpYbetTaquLDlagyHvUQZ2SmAJq3lm17w9PdqU/edit?usp=sharing)
+
 ##  Class 6 (3/13)
 
 **Into to React:**
@@ -118,6 +120,8 @@ HTML and CSS
 ##  Class 8 (3/27)
 
 - Async JS, working with API data
+
+- Assignment 2 due 03/28
 
 *Recommended materials:*
 

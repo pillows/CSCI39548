@@ -48,51 +48,35 @@ HTML and CSS
 **DOM:**
 
 - [Intro to the DOM](https://www.youtube.com/watch?v=l-0nPnSvbX8)
-
 - [DOM Example](https://gist.github.com/mtlynch3/3af5f8dd1a800a3167f8c3a3b9d36bec)
 
 **Supplemental materials:**
-
 - [MDN: Intro to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
-
 - [Video: Traversing the DOM](https://www.youtube.com/watch?v=8LWQNnVAMh4)
-
 - [Video: DOM Events](https://www.youtube.com/watch?v=QE1YQnhntgw)
-
 - [Eloquent JavaScript Chapter 13: JavaScript and the Browser](http://eloquentjavascript.net/13_browser.html)
-
 - [Eloquent JavaScript Chapter 14: The Document Object Model](http://eloquentjavascript.net/14_dom.html)
-
 - [Eloquent JavaScript Chapter 15: Handling Events](http://eloquentjavascript.net/15_event.html)
-
 - [CSS Selector Syntax](https://www.w3schools.com/cssref/css_selectors.asp)
 
 ## Class 5 (3/6)
 
 - [Gridmaker](https://gist.github.com/mtlynch3/5f1f86199a3ddb12d137f9d2fe8d1900)
-
 - [Eloquent JavaScript Chapter 5: Higher Order Functions](http://eloquentjavascript.net/05_higher_order.html)
-
 - [Create React App](https://reactjs.org/docs/create-a-new-react-app.html#create-react-app)
-
 - [Assignment 2](https://docs.google.com/document/d/1_XkhDbpYbetTaquLDlagyHvUQZ2SmAJq3lm17w9PdqU/edit?usp=sharing)
 
 ## Class 6 (3/13)
 
 **Into to React:**
-
 - [React Docs: Main Concepts](https://reactjs.org/docs/hello-world.html)
 
 **For next class: required videos (watch all in the series)**
-
 - [Introduction to React](https://www.youtube.com/watch?v=FRjlF74_EZk&list=PLruo2gSoqleiMVEIqmvZkIpFEN_TPt0hR)
 
 _Supplemental materials:_
-
 - [React JS Crash Course 2021](https://www.youtube.com/watch?v=w7ejDZ8SWv8&ab_channel=TraversyMedia)
-
 - [React styling conventions](https://github.com/airbnb/javascript/tree/master/react)
-
 - [Your First Component](https://beta.reactjs.org/learn/your-first-component)
 - [Passing Props to a Component](https://beta.reactjs.org/learn/passing-props-to-a-component)
 - [Tic-Tac-Toe](https://beta.reactjs.org/learn/tutorial-tic-tac-toe)

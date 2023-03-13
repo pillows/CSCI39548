@@ -119,11 +119,12 @@ _Supplemental materials:_
 
 ## Class 10 (4/10)
 
-- Midterm and intro final project
-
-### [Final project](https://docs.google.com/document/d/1ioCrS7uzKSkH8d-L04xMeHsq5GbkiAfwPNyLUoqrb04/edit?usp=sharing)
+- Class cancelled for Easter Break
 
 ## Class 11 (4/17)
+
+- Midterm and intro final project
+### [Final project](https://docs.google.com/document/d/1ioCrS7uzKSkH8d-L04xMeHsq5GbkiAfwPNyLUoqrb04/edit?usp=sharing)
 
 - Building out our own API using Express
 - Performing database CRUD operations using Sequelize/Postgres

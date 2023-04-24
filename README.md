@@ -124,7 +124,7 @@ _Supplemental materials:_
 ## Class 11 (4/17)
 
 - Midterm and intro final project
-### [Final project](https://docs.google.com/document/d/1ioCrS7uzKSkH8d-L04xMeHsq5GbkiAfwPNyLUoqrb04/edit?usp=sharing)
+### [Final project](https://docs.google.com/document/d/11tgfkn7EcUFSO_QCNWVbatxaEKdvPAtyk3H-QdB3nRc/edit?usp=sharing)
 
 - Building out our own API using Express
 - Performing database CRUD operations using Sequelize/Postgres
